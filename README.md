@@ -10,7 +10,7 @@ An exploitable reflected cross-site scripting (XSS) vulnerability has been disco
 
 # Install python3
 
-<img src ="cve202329489/pictures/pic1.png" width =100% />
+![Uploading pic1.png…]()
 
 [python](https://www.python.org/downloads/) 
 
