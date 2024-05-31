@@ -1,5 +1,7 @@
 # Cappricio Securities
 
+<img width="600" height="200" src="https://raw.githubusercontent.com/kovatechy/PICTURES/main/logo/Screenshot%202024-05-31%20002903.png" alt="python"/>
+
 ### CVE - 2023 -27524
 
 ### Introduction :
@@ -16,6 +18,7 @@
 Install python 3 and pip from ... 
 
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+<img src ="https://raw.githubusercontent.com/kovatechy/PICTURES/main/pictures/picpy.png" width =100% />
 
 ``` 
 (https://www.python.org/downloads/) 
@@ -35,12 +38,14 @@ to run the tool
 ## Usage
 
 - URL TO SCAN
+<img src ="https://raw.githubusercontent.com/kovatechy/PICTURES/main/pictures/picurl.png" width =100% />
 ```bash
 CVE-2023-27524 -u http://XYZ.com 
 ```
 you should paste the desired url to scan
 
 ### Help
+<img src ="https://raw.githubusercontent.com/kovatechy/PICTURES/main/pictures/pic%20help.png" width =100% />
 - Helps to know what are the commands you can use
 ```bash
 CVE-2023-27524 -h
